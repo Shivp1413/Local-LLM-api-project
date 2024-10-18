@@ -38,7 +38,7 @@ llama-api-project/
 
 ## Prerequisites
 
-- Raspberry Pi (3 or newer recommended)
+- Raspberry Pi (3 or newer recommended)/Windows/MAC
 - Python 3.7+
 - Ollama installed on the Raspberry Pi
 
@@ -46,8 +46,8 @@ llama-api-project/
 
 1. Clone the repository:
    ```
-   git clone https://github.com/Shivp1413/llama-api-project.git
-   cd llama-api-project
+   git clone https://github.com/Shivp1413/Local-LLM-api-project.git
+   cd Local-LLM-api-project
    ```
 
 2. Install dependencies:
@@ -124,7 +124,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## Acknowledgments
 
-- Anthropic for the LLAMA 3.1 model
+- Meta for the LLAMA 3.1 model
 - Ollama for providing easy model deployment
 - FastAPI for the web framework
 
